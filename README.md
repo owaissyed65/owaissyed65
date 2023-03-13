@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaissyed65&label=Profile%20views&color=0e75b6&style=flat" alt="owaissyed65" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Website**
+- 🔭 I’m currently working with **Clients**
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **owaissyed65@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WfMPocVYE1UifnwvHoCMpm2c8XHjzCSO/view?usp=sharing](https://drive.google.com/file/d/1WfMPocVYE1UifnwvHoCMpm2c8XHjzCSO/view?usp=sharing)
+- 📄 Know about my experiences [https://syedmowais.netlify.app](https://syedmowais.netlify.app)
 
 - ⚡ Fun fact **I am not funny**
 
