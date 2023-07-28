@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working with **Clients**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **react**
 
