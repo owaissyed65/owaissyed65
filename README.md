@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **owaissyed65@gmail.com**
 
-- 📄 Know about my experiences [https://syedmowais.netlify.app](https://syedmowais.netlify.app)
+- 📄 Know about my experiences [https://syedowais.vercel.app](https://syedowais.vercel.app)
 
 - ⚡ Fun fact **I am not funny**
 
